@@ -1,0 +1,41 @@
+## Conceptualization
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/conceptualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/conceptualization.png)
+
+## Data curation
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png)
+
+## Formal analysis
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/formal_analysis.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/formal_analysis.png)
+
+## Funding 
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/funding_acquisition.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/funding_acquisition.png)
+
+## Investigation
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png)
+
+## Methodology
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/methodology.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/methodology.png)
+
+## Project administration
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/project_administration.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/project_administration.png)
+
+## Resources
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png)
+
+## Software
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/computation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/computation.png)
+
+## Supervision
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/supervision.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/supervision.png)
+
+## Validation
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png)
+
+## Visualization
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_visualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_visualization.png)
+
+## Initial Draft
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_initial_draft.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_initial_draft.png)
+
+## Revision
+[<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png)
