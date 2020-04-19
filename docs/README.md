@@ -4,8 +4,6 @@
 
 CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. See further details.
 
-Below are the badges from the X repository and resumed definitions for each role.
-
 | **Badge** | **Role** | **Definition** |
 |---|---|---|
 | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/conceptualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/conceptualization.png) | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
