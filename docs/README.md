@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/badge/version-v0.1.0-blue.svg)](https://github.com/bgonzalezbustamante/CRediT/blob/master/changelog.txt) [![update](https://img.shields.io/badge/latest%20update-April%202020-orange.svg)](https://github.com/bgonzalezbustamante/CRediT/blob/master/changelog.txt) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://creativecommons.org/licenses/by/4.0/) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
-CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. See further details.
+CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. [See further details.](https://casrai.org/credit/).
 
 | **Badge** | **Role** | **Definition** |
 |---|---|---|
@@ -22,4 +22,3 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 | <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/writing_review.png" align="left" width="50" /> | Writing – Review and Editing | Critical review, commentary or revision – including pre- or post-publication stages. |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).
-  
