@@ -1,0 +1,16 @@
+# Changelog
+All notable changes to "CRediT – Contributor Roles Taxonomy" will be documented in this file.
+
+## [Released]
+
+## [1.0.0] - TBC
+
+## [Unreleased]
+
+## [0.1.0] - 2020-04-19
+### Added
+- GitHub repository.
+- Changelog in TXT format at GitHub repository.
+- Shields.io badges in SVG.
+- License CC-BY Attribution 4.0 International at GitHub repository.
+- GitHub page powered by Jekyll.
