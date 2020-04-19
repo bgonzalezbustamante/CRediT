@@ -8,7 +8,7 @@ Below are the badges from the X repository and resumed definitions for each role
 
 | **Badge** | **Role** | **Definition** |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/conceptualization.png" align="center" width="50" /> | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
+| [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/conceptualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/conceptualization.png) | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
 | <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/data_curation.png" align="left" width="50" /> | Data curation | Produce metadata, scrub data and maintain research data for initial use and later re-use. |
 | <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/formal_analysis.png" align="left" width="50" /> | Formal Analysis | Application of statistical, mathematical, computational, or other formal techniques to analyze data. |
 | <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/funding_acquisition.png" align="left" width="50" /> | Funding acquisition | Acquisition of the financial support for the project leading to this publication. |
@@ -22,3 +22,6 @@ Below are the badges from the X repository and resumed definitions for each role
 | <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/data_visualization.png" align="left" width="50" /> | Visualization | Preparation, creation and/or presentation of the published work, specifically data presentation. |
 | <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/writing_initial_draft.png" align="left" width="50" /> | Writing – original draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft. |
 | <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/writing_review.png" align="left" width="50" /> | Writing – Review and Editing | Critical review, commentary or revision – including pre- or post-publication stages. |
+
+<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).
+  
