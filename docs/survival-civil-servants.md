@@ -13,7 +13,8 @@ This research was possible thanks to financial support from the Department of Pu
 **Preprint in Progress** <br />
 González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC. <br />
 
-**Contributions** <br />
+**Contributions** 
+
 | Contributor | Role |
 |---|---|
 | BG | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/conceptualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/conceptualization.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/formal_analysis.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/formal_analysis.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/funding_acquisition.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/funding_acquisition.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/methodology.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/methodology.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/project_administration.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/project_administration.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/computation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/computation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/supervision.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/supervision.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_visualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_visualization.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_initial_draft.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_initial_draft.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png) |
@@ -25,6 +26,7 @@ González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC
 <small>Last updated: 19 April 2020</small>
 
 **Revision History**
+
 | Revision | Date | Description |
 |---|---|---|
 | 1.0 | TBC |Authors' Original Manuscript (AOM)|
