@@ -6,13 +6,30 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 
 Below are the badges from the X repository and resumed definitions for each role.
 
+|   |   |   |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/conceptualization.png" align="left" width="50" /> | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
+| <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/data_curation.png" align="left" width="50" /> | Data curation | Produce metadata, scrub data and maintain research data for initial use and later re-use. |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
 <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/conceptualization.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/data_curation.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/formal_analysis.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/funding_acquisition.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/investigation.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/methodology.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/project_administration.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/resources.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/computation.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/supervision.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/testing.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/data_visualization.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/writing_initial_draft.png" align="left" width="50" /> <img src="https://raw.githubusercontent.com/bgonzalezbustamante/open_research_badges/master/img/badges/writing_review.png" align="left" width="50" /> <br /> <br /> <br /> <br />
 
 **Conceptualization**<br />
 Ideas, formulation or evolution of overarching research goals and aims.
 
  **Data Curation** <br />
-Pproduce metadata, scrub data and maintain research data for initial use and later re-use.
+Produce metadata, scrub data and maintain research data for initial use and later re-use.
 
  **Formal Analysis** <br />
 Application of statistical, mathematical, computational, or other formal techniques to analyze data.
