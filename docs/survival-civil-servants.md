@@ -29,4 +29,4 @@ González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC
 
 | Revision | Date | Description |
 |---|---|---|
-| 1.0 | TBC |Authors' Original Manuscript (AOM)|
+| 1.0 | TBC | Authors' Original Manuscript (AOM) |
