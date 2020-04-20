@@ -4,7 +4,7 @@
 **Bibliographic Contributor** <br />
 Bastián González-Bustamante (BG)
 
-**Non-Bibliographic Contributor** <br />
+**Non-Bibliographic Contributors** <br />
 Alfredo Joignant (AJ), Antoine Maillet (AM)
 
 **Funding** <br />
