@@ -1,0 +1,10 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r collapse = TRUE, results = "asis", message = FALSE}
+strategies <- data.frame(ID = c(1, 2, 3),
+                         Text = c("Test 1", "Test 2", "Test 3"))
+
+as.character(strategies$Text[which(strategies$ID == sample(1:3, 1))])
+```
