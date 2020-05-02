@@ -8,7 +8,10 @@ Carla Cisternas (CC), Bastián González-Bustamante (BG)
 Elinor Luco (EL), Diego Letelier (DL), Erika Celsi (EC), Camila Martínez (CM)
 
 **Funding** <br />
-This research was partially funded by the Universidad de Santiago de Chile under the projects USA1498.37 and USA1498.57.
+This research was partially funded by the Universidad de Santiago de Chile under the projects USA1498.37 and USA1498.57. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+**Competing interests** <br />
+No authors have competing interests.
 
 **Preprint in Progress** <br />
 Cisternas, C., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
