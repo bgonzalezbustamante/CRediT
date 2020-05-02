@@ -8,7 +8,10 @@ Bastián González-Bustamante (BG)
 Alfredo Joignant (AJ), Antoine Maillet (AM)
 
 **Funding** <br />
-This research was possible thanks to financial support from the IDRC-Canada under the project "A  Crisis  of  Legitimacy: Challenges of the Political Order in Argentina, Chile, and Uruguay" (Alfredo Joignant, PI) and the support of the Latin American Studies Association (Grant/2016/40071).
+This research was possible thanks to financial support from the IDRC-Canada under the project "A  Crisis  of  Legitimacy: Challenges of the Political Order in Argentina, Chile, and Uruguay" (Alfredo Joignant, PI) and the support of the Latin American Studies Association (Grant/2016/40071). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+**Competing interests** <br />
+The author has no competing interests.
 
 **Preprint** <br />
 González-Bustamante, B. (2019). Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay. *SocArXiv*. DOI: [10.31235/osf.io/cqym8](http://doi.org/10.31235/osf.io/cqym8)
