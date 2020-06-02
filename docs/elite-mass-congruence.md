@@ -11,7 +11,7 @@ Alfredo Joignant (AJ), Antoine Maillet (AM)
 This research was possible thanks to financial support from the IDRC-Canada under the project "A  Crisis  of  Legitimacy: Challenges of the Political Order in Argentina, Chile, and Uruguay" (Alfredo Joignant, PI) and the support of the Latin American Studies Association (Grant/2016/40071). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
 
 **Competing interests** <br />
-The author has no competing interests.
+The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
 González-Bustamante, B. (2019). Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay. *SocArXiv*. DOI: [10.31235/osf.io/cqym8](http://doi.org/10.31235/osf.io/cqym8)
@@ -28,14 +28,14 @@ González-Bustamante, B. (2019). Brechas, representación y congruencia élite-c
 | AM | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png) |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
-<small>Last updated: 20 Apr, 2020.</small>
+<small>Last updated: April 20, 2020.</small>
 
 **Revision History**
 
 | Revision | Date | Description |
 |---|---|---|
-| 1.0 | 1 May, 2018 | Author's Original Manuscript (AOM) |
-| 2.0 | 8 Aug, 2018 | AOM revised submitted to peer review |
-| 3.0 | 1 Nov, 2018 | Accepted Manuscript (AM) after the peer review process |
-| 4.0 | 13 Jan, 2019 | AM revised based on the journal's style guide |
-| 5.0 | 21 Jan, 2019 | Version of Record (VOR) |
+| 1.0 | May 1, 2018 | Author's Original Manuscript (AOM) |
+| 2.0 | August 8, 2018 | AOM revised submitted to peer review |
+| 3.0 | November 1, 2018 | Accepted Manuscript (AM) after the peer review process |
+| 4.0 | January 13, 2019 | AM revised based on the journal's style guide |
+| 5.0 | January 21, 2019 | Version of Record (VOR) |
