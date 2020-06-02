@@ -35,7 +35,7 @@ González-Bustamante, B. (2019). Brechas, representación y congruencia élite-c
 | Revision | Date | Description |
 |---|---|---|
 | 1.0 | May 1, 2018 | Author's Original Manuscript (AOM) |
-| 2.0 | August 8, 2018 | AOM revised submitted to peer review |
-| 3.0 | November 1, 2018 | Accepted Manuscript (AM) after the peer review process |
-| 4.0 | January 13, 2019 | AM revised based on the journal's style guide |
-| 5.0 | January 21, 2019 | Version of Record (VOR) |
+| 2.0 | Aug 8, 2018 | AOM revised submitted to peer review |
+| 3.0 | Nov 1, 2018 | Accepted Manuscript (AM) after the peer review process |
+| 4.0 | Jan 13, 2019 | AM revised based on the journal's style guide |
+| 5.0 | Jan 21, 2019 | Version of Record (VOR) |
