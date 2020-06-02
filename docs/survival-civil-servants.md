@@ -11,7 +11,7 @@ Carla Cisternas (CC)
 This research was possible thanks to financial support from the Department of Public Administration and Policy of the Universidad de Santiago de Chile under the 2018 Academic Performance Agreement. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
 
 **Competing interests** <br />
-No authors have competing interests.
+The authors declared no potential conflict of interest with respect to this research.
 
 **Preprint in Progress** <br />
 González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC. <br />
@@ -26,7 +26,7 @@ González-Bustamante, B., Astete, M., and Orvenes, B. (*forthcoming*). Title TBC
 | CC | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png) |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
-<small>Last updated: 19 Apr, 2020.</small>
+<small>Last updated: Apr 19, 2020.</small>
 
 **Revision History**
 
