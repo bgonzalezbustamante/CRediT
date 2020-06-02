@@ -5,14 +5,15 @@ All notable changes to "CRediT – Contributor Roles Taxonomy" will be documente
 
 ## [1.0.0] - TBC
 
-## [Unreleased]
-
-## [0.2.3] - TBC
+## [0.2.4] - TBC
 ### Changed
 - Update of project collaborations section.
 
+## [Unreleased]
+
 ## [0.2.3] - 2020-06-02
 ### Changed
+- Update of project collaborations section.
 - Minor typesetting corrections in the changelog.
 
 ## [0.2.2] - 2020-05-02
