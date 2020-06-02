@@ -3,9 +3,9 @@
 ### Ongoing Projects 
 - COVID-19 Pandemic in South America <small>(DOI: 10.17605/OSF.IO/6FM7X)</small>.
 - Chilean Political Science Impact Ranking <small>(DOI: 10.17605/OSF.IO/C8PRA)</small>.
-- [Survival of the Senior Civil Servants in the Chilean Executive Branch](survival-civil-servants.md) <small>(DOI: 10.17605/OSF.IO/WBF6M)</small>.
 
 ### Stand-By Projects
+- [Survival of the Senior Civil Servants in the Chilean Executive Branch](survival-civil-servants.md) <small>(DOI: 10.17605/OSF.IO/WBF6M)</small>.
 - Protests and Social Unrest in Latin America <small>(DOI: TBC)</small>.
 - Political Careers and Co-Sponsorship in the Chilean Congress <small>(DOI: TBC)</small>.
 - [Social Sciences in Repression Contexts](social-sciences-in-repression.md) <small>(DOI: TBC)</small>.
