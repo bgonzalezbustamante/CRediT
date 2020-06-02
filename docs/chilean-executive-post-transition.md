@@ -14,7 +14,7 @@ This research was possible thanks to financial support from the Department of Pu
 The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. Bulletin of Latin American Research. Preprint upon request.
+González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. <em>Preprint upon request</em>.
 
 **Peer-Reviewed Publication** <br />
 González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. Bulletin of Latin American Research. <em>Early View</em>. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)
@@ -30,21 +30,21 @@ González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Cas
 | BO | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
-<small>Last updated: June 2, 2020.</small>
+<small>Last updated: Jun 2, 2020.</small>
 
 **Revision History**
 
 | Revision | Date | Description |
 |---|---|---|
-| 1.0 | February 20, 2018 | Author's Original Manuscript (AOM) |
+| 1.0 | Feb 20, 2018 | Author's Original Manuscript (AOM) |
 | 2.0 | May 29, 2018 | AOM revised submitted to peer review |
-| 3.0 | October 15, 2018 | AOM revised based on the first round of peer review |
-| 4.0 | March 18, 2019 | AOM revised based on the second round of peer review |
-| 5.0 | June 7, 2019 | AOM revised based on the third round of peer review |
-| 6.0 | July 31, 2019 | Accepted Manuscript (AM) after the peer review process |
-| 7.0 | September 13, 2019 | AM revised based on the editor's comments |
-| 8.0 | September 23, 2019 | AM revised based on the journal's style guide |
-| 9.0 | October 21, 2019 | AM revised |
-| 10.0 | October 23, 2019 | AM revised |
-| 11.0 | October 24, 2019 | Minor corrections |
-| 12.0 | November 26, 2019 | Version of Record (VOR) |
+| 3.0 | Oct 15, 2018 | AOM revised based on the first round of peer review |
+| 4.0 | Mar 18, 2019 | AOM revised based on the second round of peer review |
+| 5.0 | Jun 7, 2019 | AOM revised based on the third round of peer review |
+| 6.0 | Jul 31, 2019 | Accepted Manuscript (AM) after the peer review process |
+| 7.0 | Sep 13, 2019 | AM revised based on the editor's comments |
+| 8.0 | Sep 23, 2019 | AM revised based on the journal's style guide |
+| 9.0 | Oct 21, 2019 | AM revised |
+| 10.0 | Oct 23, 2019 | AM revised |
+| 11.0 | Oct 24, 2019 | Minor corrections |
+| 12.0 | Nov 26, 2019 | Version of Record (VOR) |
