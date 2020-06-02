@@ -11,6 +11,10 @@ All notable changes to "CRediT – Contributor Roles Taxonomy" will be documente
 ### Changed
 - Update of project collaborations section.
 
+## [0.2.3] - 2020-06-02
+### Changed
+- Minor typesetting corrections in the changelog.
+
 ## [0.2.2] - 2020-05-02
 ### Added
 - Competing interests.
@@ -29,8 +33,8 @@ All notable changes to "CRediT – Contributor Roles Taxonomy" will be documente
 ## [0.1.0] - 2020-04-19
 ### Added
 - GitHub repository.
-- Changelog in TXT format on GitHub repository.
+- Changelog in TXT format at GitHub repository.
 - Shields.io badges in SVG.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC-BY Attribution 4.0 International at GitHub repository.
 - GitHub page powered by Jekyll.
 - Project collaborations section.
