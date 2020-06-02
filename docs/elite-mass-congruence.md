@@ -16,7 +16,7 @@ The author declared no potential conflict of interest with respect to this resea
 **Preprint** <br />
 González-Bustamante, B. (2019). Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay. *SocArXiv*. DOI: [10.31235/osf.io/cqym8](http://doi.org/10.31235/osf.io/cqym8)
 
-**Peer-Reviewed Publication**
+**Peer-Reviewed Publication** <br />
 González-Bustamante, B. (2019). Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay. *Convergencia. Revista de Ciencias Sociales*, (80), 1-27. DOI: [10.29101/crcs.v26i80.11097](https://doi.org/10.29101/crcs.v26i80.11097) <br />
 
 **Contributions** 
