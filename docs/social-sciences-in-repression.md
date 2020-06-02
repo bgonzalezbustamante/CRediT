@@ -28,13 +28,13 @@ Cisternas, C., and González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 | CM | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png) |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
-<small>Last updated: April 19, 2020.</small>
+<small>Last updated: Apr 19, 2020.</small>
  
 **Revision History**
 
 | Revision | Date | Description |
 |---|---|---|
-| 1.0 | September 6, 2018 | Authors' Original Manuscript (AOM)|
-| 2.0 | October 10, 2018 | AOM revised |
-| 3.0 | January 23, 2019 | AOM revised |
+| 1.0 | Sep 6, 2018 | Authors' Original Manuscript (AOM)|
+| 2.0 | Oct 10, 2018 | AOM revised |
+| 3.0 | Jan 23, 2019 | AOM revised |
 | 4.0 | TBC | AOM revised |
