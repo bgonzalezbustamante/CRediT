@@ -4,7 +4,7 @@
 - Chilean Political Science Impact Ranking <small>(DOI: 10.17605/OSF.IO/C8PRA)</small>.
 
 ### Stand-By Projects
-- COVID-19 Pandemic in South America <small>(DOI: 10.17605/OSF.IO/6FM7X)</small>.
+- [COVID-19 Pandemic in South America](covid-19-south-america.md) <small>(DOI: 10.17605/OSF.IO/6FM7X)</small>.
 - [Survival of the Senior Civil Servants in the Chilean Executive Branch](survival-civil-servants.md) <small>(DOI: 10.17605/OSF.IO/WBF6M)</small>.
 - [Social Sciences in Repression Contexts](social-sciences-in-repression.md) <small>(DOI: TBC)</small>.
 
