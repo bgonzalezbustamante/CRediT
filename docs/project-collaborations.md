@@ -10,4 +10,5 @@
 
 ### Finished Projects
 - [The Chilean Executive During the Democratic Post-Transition](chilean-executive-post-transition.md) <small>(DOI: 10.17605/OSF.IO/MWYC2)</small>.
+- [Baseline Local E-Government Index 2016 in Chile]() <small>(DOI: 10.17605/OSF.IO/JPVS2)</small>.
 - [Gaps, Representation, and Elite-Mass Congruence in Chile and Uruguay](elite-mass-congruence.md) <small>(DOI: 10.17605/OSF.IO/YSX25)</small>.
