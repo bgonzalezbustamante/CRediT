@@ -30,7 +30,7 @@ González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Cas
 | BO | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
-<small>Last updated: Jun 2, 2020.</small>
+<small>Last updated: Jun 3, 2020.</small>
 
 **Revision History**
 
