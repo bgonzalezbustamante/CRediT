@@ -30,7 +30,7 @@ González-Bustamante, B., Carvajal, A., and González, A. (2020). Determinantes 
 | LG | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png) |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
-<small>Last updated: June 3, 2020.</small>
+<small>Last updated: Jun 3, 2020.</small>
 
 **Revision History**
 
