@@ -1,7 +1,7 @@
 ## Project Collaborations
 
 ### Ongoing Projects 
-- Chilean Political Science Impact Ranking <small>(DOI: 10.17605/OSF.IO/C8PRA)</small>.
+- [Chilean Political Science Impact Ranking](chilean-executive-post-transition.md) <small>(DOI: 10.17605/OSF.IO/C8PRA)</small>.
 
 ### Stand-By Projects
 - [COVID-19 Pandemic in South America](covid-19-south-america.md) <small>(DOI: 10.17605/OSF.IO/6FM7X)</small>.
