@@ -1,5 +1,6 @@
 ## COVID-19 Pandemic in South America
 <small>DOI: [10.17605/OSF.IO/6FM7X](http://doi.org/10.17605/OSF.IO/6FM7X)</small>
+<small>GitHub Page: https://bgonzalezbustamante.github.io/COVID-19-South-America/</small>
 
 **Bibliographic Contributors** <br />
 Bastián González-Bustamante (BG)
