@@ -1,6 +1,6 @@
 ## Chilean Political Science Impact Ranking
 <small>DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)</small><br />
-<small>Website: http://users.ox.ac.uk/~shil5311/ranking/</small>
+<small>Website: [http://users.ox.ac.uk/~shil5311/ranking/](http://users.ox.ac.uk/~shil5311/ranking/)</small>
 
 **Bibliographic Contributors** <br />
 Bastián González-Bustamante (BG)
@@ -12,7 +12,7 @@ Alejandro Olivares (AO), Carla Cisternas (CC), Rodrigo Cuevas (RC)
 This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
 
 **Competing interests** <br />
-The author declared no potential conflict of interest with respect to this research.
+The author declared that his employer could have an interest in the subject matter or material discussed in this project.
 
 **Contributions** 
 
@@ -31,5 +31,5 @@ The author declared no potential conflict of interest with respect to this resea
 | Revision | Date | Description |
 |---|---|---|
 | 1.0 | Dec 2, 2019 | 1st dataset |
-| 1.0 | Mar 5, 2020 | 2nd dataset |
-| 1.0 | Jun 2, 2020 | 3rd dataset |
+| 2.0 | Mar 5, 2020 | 2nd dataset |
+| 3.0 | Jun 2, 2020 | 3rd dataset |
