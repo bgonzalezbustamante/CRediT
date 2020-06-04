@@ -30,6 +30,6 @@ The author declared that his employer could have an interest in the subject matt
 
 | Revision | Date | Description |
 |---|---|---|
-| 1.0 | Dec 2, 2019 | 1st dataset |
-| 2.0 | Mar 5, 2020 | 2nd dataset |
-| 3.0 | Jun 2, 2020 | 3rd dataset |
+| 1.0 | Dec 2, 2019 | 1st data set |
+| 2.0 | Mar 5, 2020 | 2nd data set |
+| 3.0 | Jun 2, 2020 | 3rd data set |
