@@ -1,10 +1,10 @@
 ## The Chilean Executive During the Democratic Post-Transition
 <small>DOI: [10.17605/OSF.IO/MWYC2](http://doi.org/10.17605/OSF.IO/MWYC2)</small>
 
-**Bibliographic Contributors** <br />
-Bastián González-Bustamante (BG), 
+**Bibliographic Contributor** <br />
+Bastián González-Bustamante (BG) 
 
-**Non-Bibliographic Contributor** <br />
+**Non-Bibliographic Contributors** <br />
 Carlos Huneeus (CH), Carla Cisternas (CC), Matías Astete (MA), Berenice Orvenes (BO)
 
 **Funding** <br />
@@ -14,7 +14,7 @@ This research was possible thanks to financial support from the Department of Pu
 The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. <em>Preprint upon request</em>.
+González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Preprint upon request by email* [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)
 
 **Peer-Reviewed Publication** <br />
 González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. <em>Bulletin of Latin American Research</em>. Early View. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)
@@ -29,7 +29,7 @@ González-Bustamante, B. (2019).  The Politics‐Administration Dichotomy: A Cas
 | MA | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) |
 | BO | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) |
 
-<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
+<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
 <small>Last updated: Jun 3, 2020.</small>
 
 **Revision History**
