@@ -2,7 +2,7 @@
 <small>DOI: [10.17605/OSF.IO/C8PRA](http://doi.org/10.17605/OSF.IO/C8PRA)</small><br />
 <small>Website: [http://users.ox.ac.uk/~shil5311/ranking/](http://users.ox.ac.uk/~shil5311/ranking/)</small>
 
-**Bibliographic Contributors** <br />
+**Bibliographic Contributor** <br />
 Bastián González-Bustamante (BG)
 
 **Non-Bibliographic Contributors** <br />
@@ -23,7 +23,7 @@ The author declared that his employer could have an interest in the subject matt
 | CC | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png) |
 | RC | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) |
 
-<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).<br />
+<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
 <small>Last updated: Jun 3, 2020.</small>
 
 **Revision History**
