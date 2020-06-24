@@ -1,6 +1,6 @@
 ## CRediT
 
-[![version](https://img.shields.io/badge/version-v1.0.2-blue.svg)](https://github.com/bgonzalezbustamante/CRediT/blob/master/changelog.txt) [![update](https://img.shields.io/badge/latest%20update-June%202020-orange.svg)](https://github.com/bgonzalezbustamante/CRediT/blob/master/changelog.txt) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/CRediT/blob/master/LICENSE.txt) [![Jekyll](https://img.shields.io/badge/Made%20with-Typora-1f425f.svg)](https://typora.io/)
+[![version](https://img.shields.io/badge/version-v1.0.2-blue.svg)](https://github.com/bgonzalezbustamante/CRediT/blob/master/changelog.txt) [![update](https://img.shields.io/badge/latest%20update-June%202020-orange.svg)](https://github.com/bgonzalezbustamante/CRediT/blob/master/changelog.txt) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/CRediT/blob/master/LICENSE.txt) [![Typora](https://img.shields.io/badge/Made%20with-Typora-1f425f.svg)](https://typora.io/)
 
 CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. [See further details](https://casrai.org/credit/).
 
