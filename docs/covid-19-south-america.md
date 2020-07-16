@@ -12,7 +12,11 @@ This research did not receive any specific grant from funding agencies in the pu
 The authors declared no potential conflict of interest with respect to this research.
 
 **Preprint in Progress** <br />
-González-Bustamante, B. (*forthcoming*). Title TBC. <br />
+González-Bustamante, B. (2020). Title TBC. *Preprint upon request by email* [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
+
+**Peer-Reviewed Publication** <br />
+
+González-Bustamante, B. (*forthcoming*). Title TBC. 
 
 **Contributions** 
 
@@ -28,3 +32,5 @@ González-Bustamante, B. (*forthcoming*). Title TBC. <br />
 | Revision | Date | Description |
 |---|---|---|
 | 1.0 | May 31, 2020 | Authors' Original Manuscript (AOM) |
+| 2.0 | July 9, 2020 | Accepted Manuscript (AM) after the peer review process |
+| 3.0 | July 15, 2020 | AM revised based on the revision comments |
