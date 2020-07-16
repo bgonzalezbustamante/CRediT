@@ -15,7 +15,6 @@ The authors declared no potential conflict of interest with respect to this rese
 González-Bustamante, B. (2020). Title TBC. *Preprint upon request by email* [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
 
 **Peer-Reviewed Publication** <br />
-
 González-Bustamante, B. (*forthcoming*). Title TBC. 
 
 **Contributions** 
