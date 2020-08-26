@@ -55,7 +55,7 @@ All notable changes to "CRediT – Contributor Roles Taxonomy" will be documente
 ### Added
 - GitHub repository.
 - Changelog in TXT format at GitHub repository.
-- Shields.io badges in SVG.
+- Badges in SVG.
 - License CC-BY Attribution 4.0 International at GitHub repository.
 - GitHub page powered by Jekyll.
 - Project collaborations section.
