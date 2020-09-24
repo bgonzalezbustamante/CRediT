@@ -12,10 +12,10 @@ This research did not receive any specific grant from funding agencies in the pu
 The authors declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
-González-Bustamante, B. (2020). Title TBC. *Preprint upon request by email* [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
+González-Bustamante, B. (2020). Title Evolution and early government responses to COVID-19 in South America. *Preprint upon request by email* [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
 
 **Peer-Reviewed Publication** <br />
-González-Bustamante, B. (*forthcoming*). Title TBC. 
+González-Bustamante, B. (2021). Evolution and early government responses to COVID-19 in South America. *World Development, 137*, 1-8. DOI: [10.1016/j.worlddev.2020.105180](https://doi.org/10.1016/j.worlddev.2020.105180)
 
 **Contributions** 
 
@@ -24,7 +24,7 @@ González-Bustamante, B. (*forthcoming*). Title TBC.
 | BG | [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/conceptualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/conceptualization.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_curation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/formal_analysis.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/formal_analysis.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/investigation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/methodology.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/methodology.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/project_administration.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/project_administration.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/resources.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/computation.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/computation.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/testing.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_visualization.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/data_visualization.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_initial_draft.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_initial_draft.png) [<img src="https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png" align="center" width="50" />](https://raw.githubusercontent.com/bgonzalezbustamante/CRediT/master/docs/badges/writing_review.png) |
 
 <small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from [CASRAI](https://casrai.org/credit/).</small><br />
-<small>Last updated: Jul 20, 2020.</small>
+<small>Last updated: Sep 24, 2020.</small>
 
 **Revision History**
 
@@ -34,3 +34,4 @@ González-Bustamante, B. (*forthcoming*). Title TBC.
 | 2.0 | Jul 9, 2020 | Accepted Manuscript (AM) after the peer review process |
 | 3.0 | Jul 15, 2020 | AM revised based on the revision comments |
 | 4.0 | Jul 20, 2020 | AM revised |
+| 5.0 | Sep 4, 2020 | Version of Record (VOR) |
