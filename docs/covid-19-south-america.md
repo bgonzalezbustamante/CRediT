@@ -9,7 +9,7 @@ Bastián González-Bustamante (BG)
 This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
 
 **Competing interests** <br />
-The authors declared no potential conflict of interest with respect to this research.
+The author declared no potential conflict of interest with respect to this research.
 
 **Preprint** <br />
 González-Bustamante, B. (2020). Title Evolution and early government responses to COVID-19 in South America. *Preprint upon request by email* [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk) <br />
