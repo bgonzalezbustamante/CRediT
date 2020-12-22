@@ -6,6 +6,8 @@ All notable changes to "CRediT – Contributor Roles Taxonomy" will be documente
 ## [1.1.6] - 2020-12-21
 ### Changed
 - Corrections GitHub page.
+### Deprecated
+- Updating on a regular basis.
 
 ## [1.1.5] - 2020-09-24
 ### Changed
