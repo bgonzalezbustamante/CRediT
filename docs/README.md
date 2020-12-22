@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-v1.2.6-blue.svg)](https://github.com/bgonzalezbustamante/CRediT/blob/master/changelog.txt) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CRediT.svg)](https://github.com/bgonzalezbustamante/CRediT/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CRediT.svg)](https://github.com/bgonzalezbustamante/CRediT/issues?q=is%3Aissue+is%3Aclosed) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/CRediT/blob/master/LICENSE.txt) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
-> This repository was deprecated in mid-December 2020 and moved to [bgonzalezbustamante.com/credit](bgonzalezbustamante.com/credit)
+> This repository was deprecated in mid-December 2020 and moved to [bgonzalezbustamante.com/credit](http://bgonzalezbustamante.com/credit)
 
 CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. [See further details](https://casrai.org/credit/).
 
